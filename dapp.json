@@ -1,0 +1,30 @@
+{
+  "description": "A restaurant tier list",
+  "icon": {
+    "emoji": "📊"
+  },
+  "secrets": [],
+  "tests": [
+    {
+      "id": "tiers.board",
+      "name": "The group's tier list shows items in their tiers",
+      "path": "/",
+      "expectSelector": "#board[data-view=\"group\"] [data-tier=\"S\"] [data-item]",
+      "visual": true,
+      "impact": [
+        "public/**",
+        "api.js"
+      ]
+    },
+    {
+      "name": "The board switches to your own ranking",
+      "path": "/",
+      "expectSelector": "#view-toggle button[data-view=\"yours\"]"
+    },
+    {
+      "name": "A new item can be added",
+      "path": "/",
+      "expectSelector": "#add-form input[name=\"name\"]"
+    }
+  ]
+}
