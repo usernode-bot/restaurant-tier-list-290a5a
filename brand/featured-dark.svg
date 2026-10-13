@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <!-- Restaurant Tier List featured icon, dark: the app-icon mark in cream with the top tier bar in yellow, on black. -->
+  <rect width="1600" height="900" fill="#000000"/>
+  <g transform="translate(800 450) scale(1.1) translate(-512 -512)">
+    <!-- fork tines -->
+    <rect x="232" y="262" width="30" height="230" rx="15" fill="#FFFEEA"/>
+    <rect x="287" y="262" width="30" height="230" rx="15" fill="#FFFEEA"/>
+    <rect x="342" y="262" width="30" height="230" rx="15" fill="#FFFEEA"/>
+    <!-- fork bridge -->
+    <rect x="232" y="440" width="140" height="80" rx="40" fill="#FFFEEA"/>
+    <!-- fork handle -->
+    <rect x="272" y="480" width="60" height="282" rx="30" fill="#FFFEEA"/>
+    <!-- tier bars -->
+    <rect x="432" y="262" width="360" height="130" rx="28" fill="#FFEE6F"/>
+    <rect x="432" y="447" width="260" height="130" rx="28" fill="#FFFEEA"/>
+    <rect x="432" y="632" width="160" height="130" rx="28" fill="#FFFEEA"/>
+  </g>
+</svg>
