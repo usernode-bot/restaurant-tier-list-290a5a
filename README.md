@@ -5,6 +5,15 @@
 
 A tier list of the group's favorite restaurants: anyone adds one, everyone drags them into tiers, and the group's ranking shows where each lands.
 
+## Brand
+
+The app icon lives at `brand/icon.png` (declared as `icon.image` in
+`dapp.json`, with the 📊 emoji kept as the fallback), drawn from the vector
+source `brand/icon.svg`: a cream fork beside three stepped tier bars on a
+black tile, the top bar in yellow. The featured illustration for the Homeroom
+directory is `brand/featured-light.png` and `brand/featured-dark.png`, the
+same mark in a light and a dark look. See `brand/ICON.md`.
+
 What it already does:
 
 - **Add restaurants**: anyone in the project adds one; a name already on the list is not added twice.

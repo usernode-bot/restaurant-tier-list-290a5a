@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- Restaurant Tier List app icon: a fork beside three stepped tier bars, top bar (best tier) in yellow. Cream on black, Homeroom brand pairing. -->
+  <rect width="1024" height="1024" fill="#000000"/>
+  <!-- fork tines -->
+  <rect x="232" y="262" width="30" height="230" rx="15" fill="#FFFEEA"/>
+  <rect x="287" y="262" width="30" height="230" rx="15" fill="#FFFEEA"/>
+  <rect x="342" y="262" width="30" height="230" rx="15" fill="#FFFEEA"/>
+  <!-- fork bridge -->
+  <rect x="232" y="440" width="140" height="80" rx="40" fill="#FFFEEA"/>
+  <!-- fork handle -->
+  <rect x="272" y="480" width="60" height="282" rx="30" fill="#FFFEEA"/>
+  <!-- tier bars: longest at the top, like a ranking -->
+  <rect x="432" y="262" width="360" height="130" rx="28" fill="#FFEE6F"/>
+  <rect x="432" y="447" width="260" height="130" rx="28" fill="#FFFEEA"/>
+  <rect x="432" y="632" width="160" height="130" rx="28" fill="#FFFEEA"/>
+</svg>
